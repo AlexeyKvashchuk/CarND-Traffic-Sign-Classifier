@@ -154,7 +154,7 @@ The code for making predictions on my final model is provided below:
 To further investigate model's perfromance, here is a summary of top-5 predictions for a few test/new images:  
 
 
-<img src="./Top5Analysis.png" alt="drawing" width="1000"/>
+<img src="./examples/Top5Analysis.png" alt="drawing" width="1000"/>
 
 
 For example, in the case of a last image, the model was close to a correct guess (predicted 50 km/h vs the actual 60km/h), with the top 5 predictions containing the correct label (although the model was almost certain about the final prediction; i.e. prob ~ 1.0).
