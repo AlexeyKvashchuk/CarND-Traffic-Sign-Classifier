@@ -1,12 +1,6 @@
 # CarND-Traffic-Sign-Classifier
 Udacity's 'Traffic Sign Classifier' project
 
-# **Traffic Sign Recognition** 
-
-## Writeup
-
-
-
 **Build a Traffic Sign Recognition Project**
 
 The goals / steps of this project are the following:
